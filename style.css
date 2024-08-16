@@ -1,5 +1,38 @@
 body {
+  font-style: Roboto;
   display: flex;
   flex-direction: column;
+  /* justify-content: space-between; */
 }
 
+.header {
+  background-color: #1f2937;
+  display: flex;
+}
+
+.hero {
+  background-color: #1f2937;
+  display: flex;
+  flex: 1;
+}
+
+.info {
+  background-color: #e5e7eb;
+  display: flex;
+  flex: 1;
+}
+
+.quote {
+  display: flex;
+  flex: 1;
+}
+
+.cta {
+  display: flex;
+  flex: 1;
+}
+
+.footer {
+  background-color: #1f2937;
+  display: flex;
+}
