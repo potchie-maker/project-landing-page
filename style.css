@@ -162,6 +162,15 @@ img.sky {
   flex-wrap: wrap;
 }
 
+.cta-main {
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.cta-sec {
+  color: #e5e7eb;
+}
+
 .sign-up2 {
   background-color: #3882f6;
   border: solid #f9faf8 2px;
